@@ -35,7 +35,7 @@ And these system property values are changed as well by hooking native function 
 
 Finally, `Build.SERIAL` is changed by simple Java reflection.
 
-#增加的hook函数
+# 增加的hook函数
 - StringBuilder.toString()        包括打印toString的结果
 
 # Usage
