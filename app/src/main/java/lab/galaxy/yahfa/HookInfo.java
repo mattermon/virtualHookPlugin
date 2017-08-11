@@ -39,6 +39,6 @@ public class HookInfo {
 //        "lab.galaxy.changephoneinfo.Hook_WifiInfo_getSSID",
 //        "lab.galaxy.changephoneinfo.Hook_WifiInfo_getIpAddress",
 //        "lab.galaxy.changephoneinfo.Hook_WifiInfo_getMacAddress"
-        "lab.galaxy.changephoneinfo.Hook_String_toString"
+        "lab.galaxy.changephoneinfo.Hook_StringBuilder_toString"
     };
 }
